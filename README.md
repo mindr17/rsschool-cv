@@ -1,1 +1,1 @@
-# README
+# https://mindr17.github.io/rsschool-cv/cv
