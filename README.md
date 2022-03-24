@@ -1,1 +1,1 @@
-# https://mindr17.github.io/rsschool-cv/
+https://mindr17.github.io/rsschool-cv/
